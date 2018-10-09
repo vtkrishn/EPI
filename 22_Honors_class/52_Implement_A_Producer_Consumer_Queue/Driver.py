@@ -1,4 +1,4 @@
-from threading import Thread, Lock
+from threading import Lock
 
 queue = []
 lock = Lock()
